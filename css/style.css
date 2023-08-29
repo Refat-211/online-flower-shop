@@ -99,4 +99,74 @@ h4{
     margin: 20px;
 }
 
+.shop-birthday{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-bottom: 50px;
+}
+.birthday-left{
+    margin-top: 120px;
+}
+.birthday-right img{
+    width: 300px;
+    height: 400px;
+}
+
+.birthday-button{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.hotdeal{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 50px;
+}
+.hotdeal-right{
+    margin-top: 120px;
+}
+.hotdeal-right span{
+    color: red;
+}
+.hotdeal-left img{
+    width: 300px;
+    height: 400px;
+}
+
+.signup{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.instagram{
+    margin: 10px;
+    padding: 10px;
+}
+.instagram-image{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.instagram-image img{
+    width: 250px;
+    height: 300px;
+}
 /* main section end */
