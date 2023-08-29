@@ -210,3 +210,15 @@ input{
     cursor: pointer;
 }
 /* main section end */
+
+.footer{
+    text-align: center;
+    padding: 80px;
+    color: white;
+    margin-bottom: 0px;
+    height: 45vh;
+    background-color: black;
+}
+.footer span{
+    color: rgb(176, 43, 43);
+}
