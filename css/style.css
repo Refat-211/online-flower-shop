@@ -160,6 +160,10 @@ h4{
     margin: 10px;
     padding: 10px;
 }
+.instagram-heading{
+    text-align: center;
+    padding: 50px;
+}
 .instagram-image{
     display: flex;
     justify-content: center;
@@ -168,5 +172,41 @@ h4{
 .instagram-image img{
     width: 250px;
     height: 300px;
+}
+
+.forms{
+    width: 79%;
+    height: 50vh;
+    margin: auto;
+    margin-bottom: 70px;
+    background-image: url(/images/Rectangle\ 9.png);
+}
+
+.latest-deal{
+    text-align: center;
+    padding: 50px;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+input{
+    width: 40vw;
+    padding: 12px 24px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.subscribe{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
 }
 /* main section end */
